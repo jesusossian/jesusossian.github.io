@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![my imagem](/assets/images/jossian.jpeg)
+![my imagem](/assets/images/jossian.png)
+
+jesusossian@gmail.com
 
 **Research interest**
 - Combinatorial Optimization
