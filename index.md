@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![my imagem](/assets/images/jossian.jpeg)
+
 **Research interest**
 - Combinatorial Optimization
 - Integer and Linear Programming
