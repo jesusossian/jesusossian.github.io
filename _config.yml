@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Jesus Ossian
-subtitle: jesusossian@gmail.com
+
+github:
+  is_project_page: false
