@@ -4,7 +4,9 @@ layout: default
 
 <img src="/assets/images/jossian.png" width="200" height="250">
 
-jesusossian@gmail.com
+**email**
+- jesus.ossian@gmail.com
+- jesus.ossian@dema.ufc.br
 
 **Research interest**
 - Combinatorial Optimization
