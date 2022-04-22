@@ -16,7 +16,6 @@ layout: default
 - [Linear programming (Undergraduate)](./https://sites.google.com/site/jesusossian/cc0263?authuser=0)
 - [Linear optimization (Graduate)](./https://sites.google.com/site/jesusossian/ccp9001?authuser=0)
 
-**email:** jesusossian@gmail.com
 
 [**Curriculum lattes**](./http://www.google.com/url?q=http%3A%2F%2Flattes.cnpq.br%2F4282182643218971&sa=D&sntz=1&usg=AOvVaw015zc8s71knsTck1lBcN-R)
 
