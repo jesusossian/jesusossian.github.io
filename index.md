@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/images/jossian.png" width="200" height="250">
+<img src="/assets/images/jossian.png" width="200" height="275">
 
 **email**
 - jesus.ossian@gmail.com
