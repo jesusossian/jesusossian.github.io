@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Jesus Ossian
+# Jesus Ossian
 
 <img src="/assets/images/jossian.png" width="200" height="275">
 
