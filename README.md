@@ -9,8 +9,8 @@
 - B.Sc., Mathematics, Department of Mathematics UFPI, 2006
 
 > **Current teaching**
-- [Linear programming (Undergraduate)](/https://sites.google.com/site/jesusossian/cc0263?authuser=0)
-- [Linear optimization (Graduate)](/https://sites.google.com/site/jesusossian/ccp9001?authuser=0)
+- [Linear programming (Undergraduate)](https://sites.google.com/site/jesusossian/cc0263?authuser=0)
+- [Linear optimization (Graduate)](https://sites.google.com/site/jesusossian/ccp9001?authuser=0)
 
 **email:** jesusossian@gmail.com
 
