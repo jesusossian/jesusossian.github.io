@@ -6,7 +6,7 @@ layout: default
 
 <img src="/assets/images/jossian.png" width="200" height="275">
 
-**email**
+**Emails**
 - jesus.ossian@gmail.com
 - jesus.ossian@dema.ufc.br
 
