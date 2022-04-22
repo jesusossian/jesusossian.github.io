@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![my imagem](/assets/images/jossian.png =50x50)
+<img src="/assets/images/jossian.png" width="100" height="100">
 
 jesusossian@gmail.com
 
