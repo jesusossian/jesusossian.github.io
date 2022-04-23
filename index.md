@@ -4,7 +4,13 @@ layout: default
 
 # Jesus Ossian
 
-<img src="/assets/images/jossian.png" width="200" height="275">
+
+| | |
+|:-------------|:------------------|
+| <img src="/assets/images/jossian.png" width="200" height="275"> |  |
+| | |
+
+
 
 **Emails**
 - jesus.ossian@gmail.com
