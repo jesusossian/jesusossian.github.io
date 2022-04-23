@@ -7,7 +7,11 @@ layout: default
 
 | | |
 |:-------------|:------------------|
-| <img src="/assets/images/jossian.png" width="200" height="275"> |  |
+| <img src="/assets/images/jossian.png" width="200" height="275"> | 
+[**Curriculum lattes**](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4746404A5)
+[**Google scholar**](https://scholar.google.com.br/citations?user=QJoIO_cAAAAJ&hl=pt-BR)
+[**ORCID**](https://orcid.org/0000-0003-4475-2290)
+ |
 | | |
 
 
@@ -31,9 +35,9 @@ layout: default
 - [Linear optimization (Graduate)](https://sites.google.com/site/jesusossian/ccp9001?authuser=0)
 
 
-[**Curriculum lattes**](http://www.google.com/url?q=http%3A%2F%2Flattes.cnpq.br%2F4282182643218971&sa=D&sntz=1&usg=AOvVaw015zc8s71knsTck1lBcN-R)
 
-[**Google scholar**](https://scholar.google.com.br/citations?user=QJoIO_cAAAAJ&hl=pt-BR)
 
-[**ORCID**](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0003-4475-2290&sa=D&sntz=1&usg=AOvVaw3JV11rDuu4lrgV5tbds25U)
+
+
+
 
