@@ -6,7 +6,7 @@ layout: default
 
 
 | | |
-| <img src="/assets/images/jossian.png" width="200" height="275"> | [**Curriculum lattes**](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4746404A5) <br> [**Google scholar**](https://scholar.google.com.br/citations?user=QJoIO_cAAAAJ&hl=pt-BR) <br> [**ORCID**](https://orcid.org/0000-0003-4475-2290) <br> [**GitHub]() <br> [**Twitter**]() |
+| <img src="/assets/images/jossian.png" width="200" height="275"> | [**Curriculum lattes**](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4746404A5) \ \  [**Google scholar**](https://scholar.google.com.br/citations?user=QJoIO_cAAAAJ&hl=pt-BR) <br> [**ORCID**](https://orcid.org/0000-0003-4475-2290) <br> [**GitHub**](https://github.com/jesusossian) <br> [**Twitter**]() |
 
 **Emails**
 - jesus.ossian@gmail.com
