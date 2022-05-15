@@ -14,6 +14,7 @@ layout: default
 - Combinatorial Optimization
 - Integer and Linear Programming
 - Machine Learning
+- Data Sciense
 
 **Education**
 - D.Sc., Systems Engineering and Computer Science, Department of Systems Engineering and Computer Science PESC, 2014
