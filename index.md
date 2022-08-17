@@ -20,9 +20,3 @@ layout: default
 - D.Sc., Systems Engineering and Computer Science, Department of Systems Engineering and Computer Science PESC, 2014
 - M.Sc., Systems Engineering and Computer Science, Department of Systems Engineering and Computer Science PESC, 2009
 - B.Sc., Mathematics, Department of Mathematics UFPI, 2006
-
-**Current teaching**
-- [Linear programming (Undergraduate)](https://sites.google.com/site/jesusossian/cc0263?authuser=0)
-- [Linear optimization (Graduate)](https://sites.google.com/site/jesusossian/ccp9001?authuser=0)
-
-
